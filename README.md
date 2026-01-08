@@ -174,20 +174,11 @@ Currently exploring and implementing:
 </a>
 </p>
 
-### 💡 Open for: 
-- 🏢 **Full-time opportunities** in healthcare tech, fintech, or enterprise software
-- 🤝 **Collaboration** on open-source projects
-- 💬 **Technical consultations** on system architecture and security
-- 🎯 **Freelance projects** requiring senior-level expertise
-
 </div>
 
 ---
 
 <!-- ===================== FOOTER ===================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,17,12&height=200&section=footer&text=Building%20Software%20That%20Scales%20%26%20Matters&fontSize=28&fontColor=fff&animation=fadeIn"/>
-</div>
 
 <div align="center">
 
@@ -200,7 +191,4 @@ Currently exploring and implementing:
 **📧 Reach out for collaborations and opportunities!**
 
 ---
-
-<sub>🔧 This README is a living document - updated regularly to reflect my latest work and achievements.</sub>
-
 </div>
