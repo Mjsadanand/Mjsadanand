@@ -66,33 +66,6 @@ I'm a **full-stack software engineer** with deep expertise in building **enterpr
 
 ---
 
-## 🛠️ Technical Arsenal
-
-### Languages & Core Technologies
-```yaml
-Primary: TypeScript, JavaScript, Python, SQL
-Web: React, Next.js, Node.js, Express.js
-Mobile: React Native, Capacitor, Expo
-Databases: PostgreSQL, MongoDB, Supabase
-```
-
-### Backend & Infrastructure
-```yaml
-APIs: REST, GraphQL, tRPC, Edge Functions
-Cloud: AWS, Vercel, Supabase, Firebase  
-DevOps: Docker, Git, GitHub Actions, CI/CD
-Security: JWT, OAuth, RBAC, HIPAA Compliance
-```
-
-### Specialized Skills
-```yaml
-Healthcare: HIPAA-compliant systems, Medical AI
-E-commerce: Payment integration, Order management
-Security: Security auditing, Vulnerability assessment
-Architecture: Microservices, Event-driven design
-```
-
----
 
 ## 🚀 Featured Projects & Contributions
 
@@ -109,7 +82,7 @@ Architecture: Microservices, Event-driven design
 
 ---
 
-### 🍕 [Sonna Sweet Bites - Restaurant Platform](https://github.com/llMr-Sweetll/sonna-sweet-bites-app)
+### 🍕 [Sonna Sweet Bites - Restaurant Platform](https://sonna-sweet-bites-app.vercel.app/)
 **Role:** Full-Stack Developer & Mobile Architect
 
 - 📱 **Cross-platform mobile app** (iOS/Android) using Capacitor
@@ -122,7 +95,7 @@ Architecture: Microservices, Event-driven design
 
 ---
 
-### 💪 [LetFitIt - Fitness Tracker](https://github.com/Mjsadanand/letfitit)
+### 💪 [LetFitIt - Fitness Tracker](https://letfitit.vercel.app/)
 **Role:** Product Owner & Developer
 
 - 📈 **Fitness tracking application** with modern UI/UX design
@@ -134,7 +107,7 @@ Architecture: Microservices, Event-driven design
 
 ---
 
-### ✍️ [Personal Blogging Platform](https://github.com/Mjsadanand/Blogging)
+### ✍️ [Personal Blogging Platform](https://skilltojob.vercel.app/)
 **Role:** Developer
 
 - 📝 **Content management system** with rich text editing
@@ -142,94 +115,6 @@ Architecture: Microservices, Event-driven design
 - 📱 **Responsive design** across devices
 
 ---
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mjsadanand&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Sadanand's GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjsadanand&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com? user=Mjsadanand&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA657&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
-
-</div>
-
----
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mjsadanand/Mjsadanand/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mjsadanand/Mjsadanand/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mjsadanand/Mjsadanand/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 📊 Detailed Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mjsadanand&custom_title=Sadanand's%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🎯 Professional Highlights
-
-### 🏗️ **System Architecture & Design**
-- Designed HIPAA-compliant healthcare systems from ground up
-- Implemented microservices architecture for e-commerce platforms
-- Created secure authentication systems with JWT and OAuth integration
-
-### 🔐 **Security & Compliance**
-- Conducted comprehensive security audits (28 vulnerabilities identified & resolved)
-- Implemented OWASP Top 10 compliance frameworks
-- Developed encryption systems for sensitive medical data
-
-### 📱 **Mobile & Cross-Platform Development**
-- Built production mobile apps using Capacitor for iOS/Android
-- Integrated native device plugins (Haptics, Geolocation, Device Info)
-- Developed responsive web applications that work seamlessly on mobile
-
-### 🚀 **Performance & Scalability**
-- Optimized applications for high-traffic scenarios
-- Implemented efficient database queries and caching strategies
-- Built CI/CD pipelines for automated testing and deployment
-
----
-
-## 🧠 Problem-Solving Approach
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[Problem Analysis] --> B[Architecture Design]
-    B --> C[Security Assessment]
-    C --> D[Technology Selection]
-    D --> E[Implementation]
-    E --> F[Testing & Validation]
-    F --> G[Deployment & Monitoring]
-    G --> H[Continuous Improvement]
-```
-
-</div>
 
 ### Core Principles
 - **Security First:** Every feature designed with security considerations
@@ -259,37 +144,6 @@ graph TD
 
 ---
 
-## 💼 Current Focus Areas
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🏥 **Healthcare Tech**
-Building secure, compliant medical systems with AI integration for better patient outcomes
-
-</td>
-<td align="center" width="33%">
-
-### 🚀 **System Scalability**
-Designing applications that handle growth efficiently without compromising performance
-
-</td>
-<td align="center" width="33%">
-
-### 🔐 **Security First**
-Implementing robust security measures from design to deployment
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📚 Continuous Learning
 
 Currently exploring and implementing: 
@@ -312,7 +166,7 @@ Currently exploring and implementing:
 <a href="https://github.com/Mjsadanand">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/sadanand-jm">
+<a href="https://www.linkedin.com/in/sadanand-m-258a99268/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sadanandjm@gmail.com">
