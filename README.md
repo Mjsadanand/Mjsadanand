@@ -1,8 +1,8 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Wali&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Backend-Oriented%20Software%20Engineer%20•%20System%20Thinker&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sadanand%20J%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Backend-Oriented%20Software%20Engineer%20•%20System%20Thinker&descAlignY=65" />
   <br />
-  <img src="https://komarev.com/ghpvc/?username=Abhishekh3007&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Mjsadanand&label=Profile%20Views&color=blueviolet&style=flat-square"/>
 </div>
 
 ---
@@ -99,9 +99,9 @@ I optimize for **long-term stability**, not short-term velocity.
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishekh3007&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mjsadanand&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" height="150" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Abhishekh3007&theme=transparent&hide_border=true" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mjsadanand&theme=transparent&hide_border=true" height="150" />
 
 </div>
 
@@ -110,7 +110,7 @@ I optimize for **long-term stability**, not short-term velocity.
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekh3007&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mjsadanand&theme=github-compact&hide_border=true" />
 
 </div>
 
@@ -167,9 +167,9 @@ Maintainable  > Impressive
 
 <div align="center">
 
-[GitHub](https://github.com/Abhishekh3007) ·
+[GitHub](https://github.com/Mjsadanand) ·
 [LinkedIn](https://www.linkedin.com/in/abhishek-wali-0628b027b/) ·
-[Email](mailto:waliabhishek120@gmail.com)
+[Email](mailto:sadanandjm@gmail.com)
 
 </div>
 
